@@ -4,7 +4,12 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!")
+//console.log(1+1)
+//console.log("What day is it? It's Wednesday")
+//console.log('What day is it? \nIt\'s Wednesday.') 
+//console.log('"I don\'t like the weekends" said no one ever.')
+//console.log('9 * 3 = ', 9*3)
 
 /*  
 Next, PLAY! 
